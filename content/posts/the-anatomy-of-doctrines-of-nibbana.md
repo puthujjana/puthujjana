@@ -4,8 +4,6 @@ draft = true
 title = 'The Anatomy of Doctrines of Nibbana'
 +++
 
-## Introduction
+## The Anatomy of Doctrines of Nibbāna
 
-This is **bold** text, and this is *emphasized* text.
-
-Visit the [Hugo](https://gohugo.io) website!
+<a href="https://docs.google.com/document/d/11TszVWfl_GO26wa1tN5UTS5tdCbPpLbzGuJeVw8qStM/edit?usp=sharing" target="_blank" rel="noopener noreferrer">Visit the Google Document</a>

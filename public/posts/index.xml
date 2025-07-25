@@ -1,20 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Puthujjana</title>
-    <link>http://localhost:1313/puthujjana/</link>
-    <description>Recent content on Puthujjana</description>
+    <title>Posts on Puthujjana</title>
+    <link>http://localhost:1313/puthujjana/posts/</link>
+    <description>Recent content in Posts on Puthujjana</description>
     <generator>Hugo -- 0.148.1</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 25 Jul 2025 13:40:05 -0700</lastBuildDate>
-    <atom:link href="http://localhost:1313/puthujjana/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>About</title>
-      <link>http://localhost:1313/puthujjana/about/</link>
-      <pubDate>Fri, 25 Jul 2025 13:40:05 -0700</pubDate>
-      <guid>http://localhost:1313/puthujjana/about/</guid>
-      <description>&lt;p&gt;Welcome. This is a site that is being used to park research notes.&lt;/p&gt;</description>
-    </item>
+    <lastBuildDate>Fri, 25 Jul 2025 13:21:58 -0700</lastBuildDate>
+    <atom:link href="http://localhost:1313/puthujjana/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>The Anatomy of Doctrines of Nibbana</title>
       <link>http://localhost:1313/puthujjana/posts/the-anatomy-of-doctrines-of-nibbana/</link>

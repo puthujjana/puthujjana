@@ -1,4 +1,14 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://puthujjana.github.io/puthujjana/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'Puthujjana'
 theme = 'PaperMod'
+
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
+
+[markup]
+  [markup.goldmark.renderer]
+    unsafe = true
+
+sectionPagesMenu = 'main'
