@@ -1,6 +1,6 @@
 +++
 date = '2025-08-02T15:15:57-07:00'
-draft = true
+draft = false
 title = 'A Bibliography of Publications on Nibbāna'
 +++
 
