@@ -5,4 +5,6 @@ title = 'About'
 menus = 'main'
 +++
 
-Welcome. This is a site that is being used to park research notes.
+Welcome. This is a site that is being used to park research notes. 
+
+Email: el0vmjd6@anonaddy.me
