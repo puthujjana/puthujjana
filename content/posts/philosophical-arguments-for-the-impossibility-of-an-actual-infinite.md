@@ -1,6 +1,6 @@
 +++
 date = '2025-08-18T12:26:54-07:00'
-draft = true
+draft = false
 title = 'Philosophical Arguments for the Impossibility of an Actual Infinite'
 +++
 
