@@ -1,6 +1,6 @@
 +++
 date = '2025-08-23T18:15:47-07:00'
-draft = true
+draft = false
 title = 'Suttas on Micchādiṭṭhi in the Pali Canon'
 +++
 
