@@ -7,7 +7,8 @@ categories = ["pali"]
 
 ## Introduction
 
-<a href-"https://drive.google.com/file/d/1reE1QT2t-gYXYUhJKZw-Ds0GBRI_2Z4_/view?usp=sharing" target="_blank" rel="noopener noreferrer">This</a> is a developing Anki deck for Pāli conjugations: that is to say, it contains cards with the different endings for different verb conjugations, such as the aorist, future tense, conditional, etc.. It probably contains some errors.
+<a href="https://drive.google.com/file/d/1reE1QT2t-gYXYUhJKZw-Ds0GBRI_2Z4_/view?usp=sharing" target="_blank" rel="noopener noreferrer">This</a> is a developing Anki deck for Pāli conjugations: that is to say, it contains cards with the different endings for different verb conjugations, such as the aorist, future tense, conditional, etc.. It probably contains some errors.
+
 
 ## Structure
 
