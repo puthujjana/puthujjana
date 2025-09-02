@@ -6,6 +6,21 @@
     <description>Recent content in Categories on Puthujjana</description>
     <generator>Hugo -- 0.148.1</generator>
     <language>en-us</language>
+    <lastBuildDate>Sat, 23 Aug 2025 18:15:47 -0700</lastBuildDate>
     <atom:link href="http://localhost:1313/puthujjana/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Dhamma</title>
+      <link>http://localhost:1313/puthujjana/categories/dhamma/</link>
+      <pubDate>Sat, 23 Aug 2025 18:15:47 -0700</pubDate>
+      <guid>http://localhost:1313/puthujjana/categories/dhamma/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Nibbana</title>
+      <link>http://localhost:1313/puthujjana/categories/nibbana/</link>
+      <pubDate>Sat, 02 Aug 2025 15:15:57 -0700</pubDate>
+      <guid>http://localhost:1313/puthujjana/categories/nibbana/</guid>
+      <description></description>
+    </item>
   </channel>
 </rss>

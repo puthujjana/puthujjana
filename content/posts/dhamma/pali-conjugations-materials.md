@@ -2,6 +2,7 @@
 date = '2025-08-20T10:59:27-07:00'
 draft = true
 title = 'Pāli Conjugations Materials'
+categories = ["pali"]
 +++
 
 ## Introduction

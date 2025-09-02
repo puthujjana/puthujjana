@@ -2,19 +2,45 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://localhost:1313/puthujjana/posts/</loc>
+    <lastmod>2025-08-25T14:35:32-07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/puthujjana/</loc>
+    <lastmod>2025-08-25T14:35:32-07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/puthujjana/posts/philosophy-of-religion/the-concise-endless-and-infinite/</loc>
+    <lastmod>2025-08-25T14:35:32-07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/puthujjana/categories/</loc>
+    <lastmod>2025-08-23T18:15:47-07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/puthujjana/categories/dhamma/</loc>
+    <lastmod>2025-08-23T18:15:47-07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/puthujjana/posts/dhamma/suttas-on-micchaditthi-in-the-pali-canon/</loc>
+    <lastmod>2025-08-23T18:15:47-07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/puthujjana/posts/philosophy-of-religion/philosophical-arguments-for-the-impossibility-of-an-actual-infinite/</loc>
+    <lastmod>2025-08-18T12:26:54-07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/puthujjana/posts/dhamma/unresolved-topics-in-buddhism/</loc>
+    <lastmod>2025-08-15T14:04:13-07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/puthujjana/posts/dhamma/nibbana/a-bibliography-of-publications-on-nibbana/</loc>
+    <lastmod>2025-08-02T15:15:57-07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/puthujjana/categories/nibbana/</loc>
+    <lastmod>2025-08-02T15:15:57-07:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/puthujjana/about/</loc>
     <lastmod>2025-07-25T13:40:05-07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/puthujjana/</loc>
-    <lastmod>2025-07-25T13:40:05-07:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/puthujjana/posts/</loc>
+    <loc>http://localhost:1313/puthujjana/posts/dhamma/nibbana/the-taxonomy-of-doctrines-of-nibbana/</loc>
     <lastmod>2025-07-25T13:21:58-07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/puthujjana/posts/the-anatomy-of-doctrines-of-nibbana/</loc>
-    <lastmod>2025-07-25T13:21:58-07:00</lastmod>
+    <loc>http://localhost:1313/puthujjana/archives/</loc>
   </url><url>
-    <loc>http://localhost:1313/puthujjana/categories/</loc>
+    <loc>http://localhost:1313/puthujjana/main/</loc>
   </url><url>
     <loc>http://localhost:1313/puthujjana/tags/</loc>
   </url>

@@ -10,9 +10,17 @@ theme = 'PaperMod'
 [markup]
   [markup.goldmark.renderer]
     unsafe = true
-  [markup.tableOfContents]
-    startLevel = 2
-    endLevel = 3
-    ordered = false
+
+[params]
+  ShowArchive = true
+
+[[menu.main]]
+  name = "Archive"
+  url = "archives/"
+  weight = 10
+
+[taxonomies]
+  category = "categories"
+  tag = "tags"
 
 sectionPagesMenu = 'main'
