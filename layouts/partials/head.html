@@ -1,0 +1,2 @@
+{{ $sidebarCSS := resources.Get "css/extended/sidebar.css" | minify | fingerprint }}
+<link rel="stylesheet" href="{{ $sidebarCSS.RelPermalink }}">
