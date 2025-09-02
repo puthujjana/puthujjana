@@ -1,0 +1,55 @@
+.sidebar {
+  width: 220px;
+  padding: 1rem;
+  border-left: none;
+  /* border-left: 1px solid #ddd;*/
+
+  /* Sticky behavior */
+  position: sticky;
+  top: 1rem;
+  max-height: calc(100vh - 2rem);
+  overflow-y: auto;
+  /* background: #fff; */ /* removed */
+}
+
+.sidebar h2 {
+  font-size: 1.1rem;
+  margin-bottom: 0.5rem;
+}
+
+.sidebar ul {
+  list-style: none;
+  padding-left: 0;
+}
+
+.sidebar li {
+  margin-bottom: 0.25rem;
+}
+
+/* Toggle button */
+.sidebar-toggle {
+  display: block;
+  margin-bottom: 0.5rem;
+  padding: 0.25rem 0.5rem;
+  border: 1px solid #ccc;
+  /*background: #f9f9f9;*/
+  cursor: pointer;
+  width: 100%;
+  text-align: left;
+  font-size: 1rem;
+  border-radius: 4px;
+}
+
+/*
+.sidebar-toggle:hover {
+  background: #eee;
+}
+*/
+
+#sidebar-content {
+  background: transparent; /* no white box */
+}
+
+.sidebar {
+  background: transparent !important;
+}

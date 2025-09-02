@@ -1,0 +1,23 @@
+<aside class="sidebar">
+  <button class="sidebar-toggle" onclick="toggleSidebar()">☰ Categories</button>
+  <div id="sidebar-content" style="display:none;">
+    <ul>
+      {{ range .Site.Taxonomies.categories }}
+        <li>
+          <a href="{{ .Page.Permalink }}">{{ .Page.Title }} ({{ len .Pages }})</a>
+        </li>
+      {{ end }}
+    </ul>
+  </div>
+</aside>
+
+<script>
+  function toggleSidebar() {
+    const content = document.getElementById("sidebar-content");
+    if (content.style.display === "none") {
+      content.style.display = "block";
+    } else {
+      content.style.display = "none";
+    }
+  }
+</script>

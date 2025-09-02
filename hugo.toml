@@ -13,6 +13,7 @@ theme = 'PaperMod'
 
 [params]
   ShowArchive = true
+  hideFooter = true
 
 [[menu.main]]
   name = "Archive"
@@ -24,3 +25,5 @@ theme = 'PaperMod'
   tag = "tags"
 
 sectionPagesMenu = 'main'
+
+

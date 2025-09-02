@@ -10,7 +10,7 @@
 <meta name="description" content="">
 <meta name="author" content="">
 <link rel="canonical" href="http://localhost:1313/puthujjana/categories/nibbana/">
-<link crossorigin="anonymous" href="/puthujjana/assets/css/stylesheet.893fcd09a6046c3e1f6a1e1d0820652d7090b472945c3a46fd3a2b1d52e969ed.css" integrity="sha256-iT/NCaYEbD4fah4dCCBlLXCQtHKUXDpG/TorHVLpae0=" rel="preload stylesheet" as="style">
+<link crossorigin="anonymous" href="/puthujjana/assets/css/stylesheet.9a8ec0bdc427486947e84afe8175204f0fbb8705d7cc10195d2f64b20453d94f.css" integrity="sha256-mo7AvcQnSGlH6Er&#43;gXUgTw&#43;7hwXXzBAZXS9ksgRT2U8=" rel="preload stylesheet" as="style">
 <link rel="icon" href="http://localhost:1313/puthujjana/favicon.ico">
 <link rel="icon" type="image/png" sizes="16x16" href="http://localhost:1313/puthujjana/favicon-16x16.png">
 <link rel="icon" type="image/png" sizes="32x32" href="http://localhost:1313/puthujjana/favicon-32x32.png">
@@ -133,32 +133,36 @@
   <a class="entry-link" aria-label="post link to A Bibliography of Publications on Nibbāna" href="http://localhost:1313/puthujjana/posts/dhamma/nibbana/a-bibliography-of-publications-on-nibbana/"></a>
 </article>
         </main>
-        <aside class="sidebar" style="padding: 1rem; border-left: 1px solid #ddd; margin-left: 2rem;">
-  <h2 style="margin-bottom: 0.5rem;">Categories</h2>
-  <ul style="list-style: none; padding-left: 0;">
-    
-      <li style="margin-bottom: 0.25rem;">
-        <a href="/categories/dhamma">
-          dhamma (1)
-        </a>
-      </li>
-    
-      <li style="margin-bottom: 0.25rem;">
-        <a href="/categories/nibbana">
-          nibbana (1)
-        </a>
-      </li>
-    
-  </ul>
+        <aside class="sidebar">
+  <button class="sidebar-toggle" onclick="toggleSidebar()">☰ Categories</button>
+  <div id="sidebar-content" style="display:none;">
+    <ul>
+      
+        <li>
+          <a href="http://localhost:1313/puthujjana/categories/dhamma/">Dhamma (1)</a>
+        </li>
+      
+        <li>
+          <a href="http://localhost:1313/puthujjana/categories/nibbana/">Nibbana (1)</a>
+        </li>
+      
+    </ul>
+  </div>
 </aside>
+
+<script>
+  function toggleSidebar() {
+    const content = document.getElementById("sidebar-content");
+    if (content.style.display === "none") {
+      content.style.display = "block";
+    } else {
+      content.style.display = "none";
+    }
+  }
+</script>
 
     </div>
     
-<footer class="footer">
-        <span>&copy; 2025 <a href="http://localhost:1313/puthujjana/">Puthujjana</a></span> · 
-
-    
-</footer>
 <a href="#top" aria-label="go to top" title="Go to Top (Alt + G)" class="top-link" id="top-link" accesskey="g">
     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 12 6" fill="currentColor">
         <path d="M12 6H0l6-6z" />
