@@ -2,7 +2,7 @@
 date = '2025-07-25T13:21:58-07:00'
 draft = false
 title = 'The Taxonomy of Doctrines of Nibbāna'
-
+categories = ["Dhamma"]
 +++
 
 ## Summary

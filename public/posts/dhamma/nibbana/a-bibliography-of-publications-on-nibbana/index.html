@@ -11,7 +11,7 @@
 This Google Sheet contains a developing bibliography of publications on the topic of Nibbāna. The primary focus is English academic literature on the topic of Nibbāna in Early Buddhism; nonetheless, non-academic (e.g., Buddhist forums) and later Buddhist materials (e.g., Tibetan views) and alternative formats (e.g., interviews) will be included wherever available to create the most comprehensive and exhaustive bibliography as possible. The intention behind this bibliography is that it serves as a field guide for those new to the topic, and a convenient reference for those with experience. Then again, it might also reveal new articles to those with experience that they failed to come across prior.">
 <meta name="author" content="">
 <link rel="canonical" href="http://localhost:1313/puthujjana/posts/dhamma/nibbana/a-bibliography-of-publications-on-nibbana/">
-<link crossorigin="anonymous" href="/puthujjana/assets/css/stylesheet.9a8ec0bdc427486947e84afe8175204f0fbb8705d7cc10195d2f64b20453d94f.css" integrity="sha256-mo7AvcQnSGlH6Er&#43;gXUgTw&#43;7hwXXzBAZXS9ksgRT2U8=" rel="preload stylesheet" as="style">
+<link crossorigin="anonymous" href="/puthujjana/assets/css/stylesheet.03cffc2f58b54a2d2096bdf291dcf819cdd67813b95ccd8c3fa8ea0e763ddf02.css" integrity="sha256-A8/8L1i1Si0glr3ykdz4Gc3WeBO5XM2MP6jqDnY93wI=" rel="preload stylesheet" as="style">
 <link rel="icon" href="http://localhost:1313/puthujjana/favicon.ico">
 <link rel="icon" type="image/png" sizes="16x16" href="http://localhost:1313/puthujjana/favicon-16x16.png">
 <link rel="icon" type="image/png" sizes="32x32" href="http://localhost:1313/puthujjana/favicon-32x32.png">
@@ -105,6 +105,11 @@ This Google Sheet contains a developing bibliography of publications on the topi
                 </a>
             </li>
             <li>
+                <a href="http://localhost:1313/puthujjana/search/" title="Search (Alt &#43; /)" accesskey=/>
+                    <span>Search</span>
+                </a>
+            </li>
+            <li>
                 <a href="http://localhost:1313/puthujjana/about/" title="About">
                     <span>About</span>
                 </a>
@@ -139,32 +144,50 @@ This Google Sheet contains a developing bibliography of publications on the topi
 </article>
         </main>
         <aside class="sidebar">
-  <button class="sidebar-toggle" onclick="toggleSidebar()">☰ Categories</button>
+
+    
+  <button class="sidebar-toggle" onclick="toggleCategories()">☰ Categories</button>
   <div id="sidebar-content" style="display:none;">
     <ul>
       
         <li>
-          <a href="http://localhost:1313/puthujjana/categories/dhamma/">Dhamma (1)</a>
+          <a href="http://localhost:1313/puthujjana/categories/dhamma/">Dhamma (3)</a>
         </li>
       
         <li>
           <a href="http://localhost:1313/puthujjana/categories/nibbana/">Nibbana (1)</a>
         </li>
       
+        <li>
+          <a href="http://localhost:1313/puthujjana/categories/philosophy/">Philosophy (2)</a>
+        </li>
+      
     </ul>
   </div>
-</aside>
+
+  <div class="sidebar-personal-links">
+    <h3>Links</h3>
+    <ul>
+      <li><a href="https://github.com/puthujjana" target="_blank" rel="noopener noreferrer">GitHub</a></li>
+    </ul>
+  </div>
+
+  <div class="sidebar-recommended-links">
+    <h3>Recommended links</h3>
+    <ul>
+      <li><a href="https://suttacentral.net" target="_blank" rel="noopener noreferrer">SuttaCentral</a></li>
+      <li><a href="https://accesstoinsight.org" target="_blank" rel="noopener noreferrer">AccessToInsight</a></li>
+      <li><a href="https://plato.stanford.edu/index.html" target="_blank" rel="noopener noreferrer">Stanford Encyclopedia of Philosophy</a></li>
+    </ul>
+  </div>
 
 <script>
-  function toggleSidebar() {
-    const content = document.getElementById("sidebar-content");
-    if (content.style.display === "none") {
-      content.style.display = "block";
-    } else {
-      content.style.display = "none";
-    }
-  }
+function toggleCategories() {
+  const content = document.getElementById("sidebar-content");
+  content.style.display = content.style.display === "none" ? "block" : "none";
+}
 </script>
+
 
     </div>
     

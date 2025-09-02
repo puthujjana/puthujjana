@@ -10,7 +10,7 @@
 <meta name="description" content="">
 <meta name="author" content="">
 <link rel="canonical" href="http://localhost:1313/puthujjana/main/">
-<link crossorigin="anonymous" href="/puthujjana/assets/css/stylesheet.9a8ec0bdc427486947e84afe8175204f0fbb8705d7cc10195d2f64b20453d94f.css" integrity="sha256-mo7AvcQnSGlH6Er&#43;gXUgTw&#43;7hwXXzBAZXS9ksgRT2U8=" rel="preload stylesheet" as="style">
+<link crossorigin="anonymous" href="/puthujjana/assets/css/stylesheet.ff8e391d498e0e7108ca73298404a37252a9478bb13dfd769efc5315f351bf71.css" integrity="sha256-/445HUmODnEIynMphASjclKpR4uxPf12nvxTFfNRv3E=" rel="preload stylesheet" as="style">
 <link rel="icon" href="http://localhost:1313/puthujjana/favicon.ico">
 <link rel="icon" type="image/png" sizes="16x16" href="http://localhost:1313/puthujjana/favicon-16x16.png">
 <link rel="icon" type="image/png" sizes="32x32" href="http://localhost:1313/puthujjana/favicon-32x32.png">
@@ -136,6 +136,11 @@
       
     </ul>
   </div>
+  <div class="sidebar-search">
+    <input type="text" id="search-input" placeholder="Search..." />
+    <ul id="search-results"></ul>
+  </div>
+
 </aside>
 
 <script>
@@ -148,6 +153,39 @@
     }
   }
 </script>
+
+<script src="https://cdn.jsdelivr.net/npm/fuse.js/dist/fuse.min.js"></script>
+<script>
+  async function initSearch() {
+    const res = await fetch("/index.json");
+    const data = await res.json();
+
+    const fuse = new Fuse(data, {
+      keys: ["title", "summary", "content"],
+      threshold: 0.3,
+    });
+
+    const input = document.getElementById("search-input");
+    const results = document.getElementById("search-results");
+
+    input.addEventListener("input", () => {
+      const query = input.value.trim();
+      results.innerHTML = "";
+
+      if (query.length > 1) {
+        const found = fuse.search(query);
+        found.slice(0, 5).forEach(({ item }) => {
+          const li = document.createElement("li");
+          li.innerHTML = `<a href="${item.permalink}">${item.title}</a>`;
+          results.appendChild(li);
+        });
+      }
+    });
+  }
+
+  initSearch();
+</script>
+
 
     </div>
     

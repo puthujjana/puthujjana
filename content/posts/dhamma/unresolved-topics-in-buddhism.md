@@ -2,6 +2,7 @@
 date = '2025-08-15T14:04:13-07:00'
 draft = false
 title = 'Unresolved Topics in Buddhism'
+categories = ["Dhamma"]
 +++
 
 
