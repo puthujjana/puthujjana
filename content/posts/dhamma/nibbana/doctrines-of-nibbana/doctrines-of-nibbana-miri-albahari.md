@@ -1,7 +1,7 @@
 +++
 date = '2025-09-02T12:57:25-07:00'
 draft = false
-title = 'Doctrines of Nibbana'
+title = 'Doctrines of Nibbāna: Miri Albahari'
 categories = ["doctrines of nibbana"]
 +++
 
