@@ -2,16 +2,25 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/puthujjana/categories/</loc>
-    <lastmod>2025-08-25T14:35:32-07:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/puthujjana/categories/philosophy/</loc>
-    <lastmod>2025-08-25T14:35:32-07:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/puthujjana/posts/</loc>
-    <lastmod>2025-08-25T14:35:32-07:00</lastmod>
+    <lastmod>2025-09-14T14:45:22-07:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/puthujjana/</loc>
+    <lastmod>2025-09-14T14:45:22-07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/puthujjana/posts/other/the-gentlemens-book-of-etiquette/</loc>
+    <lastmod>2025-09-14T14:45:22-07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/puthujjana/categories/</loc>
+    <lastmod>2025-09-02T12:57:25-07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/puthujjana/categories/doctrines-of-nibbana/</loc>
+    <lastmod>2025-09-02T12:57:25-07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/puthujjana/posts/dhamma/nibbana/doctrines-of-nibbana/doctrines-of-nibbana-miri-albahari/</loc>
+    <lastmod>2025-09-02T12:57:25-07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/puthujjana/categories/philosophy/</loc>
     <lastmod>2025-08-25T14:35:32-07:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/puthujjana/posts/philosophy-of-religion/the-concise-endless-and-infinite/</loc>
@@ -22,6 +31,12 @@
   </url><url>
     <loc>http://localhost:1313/puthujjana/posts/dhamma/suttas-on-micchaditthi-in-the-pali-canon/</loc>
     <lastmod>2025-08-23T18:15:47-07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/puthujjana/categories/pali/</loc>
+    <lastmod>2025-08-20T10:59:27-07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/puthujjana/posts/dhamma/pali-conjugations-materials/</loc>
+    <lastmod>2025-08-20T10:59:27-07:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/puthujjana/posts/philosophy-of-religion/philosophical-arguments-for-the-impossibility-of-an-actual-infinite/</loc>
     <lastmod>2025-08-18T12:26:54-07:00</lastmod>
