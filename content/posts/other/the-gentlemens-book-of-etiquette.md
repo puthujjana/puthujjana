@@ -18,4 +18,5 @@ An LLM has been used to distill each distinct individual point of etiquette from
 
 ## Bibliography
 
-1. Hartley, C. B. (1875). The Gentlemen's Book of Etiquette, and Manual of Politeness: Being a Complete Guide for a Gentleman's Conduct in All His Relations Towards Society... From the Best French, English, and American Authorities. JS Locke & Company.
+1. Hartley, C. B. (1875). The Gentlemen's Book of Etiquette, and Manual of Politeness: Being a Complete Guide for a Gentleman's Conduct in All His Relations Towards Society... From the Best French, English, and American Authorities. JS Locke & Company. 
+https://ia904609.us.archive.org/22/items/gentlemensbookof00hartrich/gentlemensbookof00hartrich.pdf
