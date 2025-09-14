@@ -1,7 +1,7 @@
 +++
 date = '2025-09-14T14:45:22-07:00'
 draft = false
-title = 'The Gentlemens Book of Etiquette'
+title = 'The Gentlemen's Book of Etiquette'
 +++
 
 ## Introduction
