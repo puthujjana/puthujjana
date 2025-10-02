@@ -14,19 +14,25 @@ categories = ["pali"]
 
 Most cards are basic (not reversible). The front sides are mostly of the following form: 
 
->How is the [voice] [person] [number] [tense] formed? 
->
->(e.g., How is the active first person singular optative formed?). 
+>How is the [voice] [person] [number] [mood/tense] formed? 
+
+For instance:
+>How is the active first person singular optative formed?. 
 
 The back sides are mostly of the following form: 
 
->[ending]
-> 
->(e.g., (1) -eyyāmi (2) eyyaṃ (3) e (<i>4) ehaṃ (5) eyyahaṃ (6) eyyāhaṃ</i>)
+>(1) [termination]
+>
+>(2) [termination]
+>
+>...
+
+For instance, regarding the previous example: 
+> (1) -eyyāmi (2) eyyaṃ (3) e (<i>4) ehaṃ (5) eyyahaṃ (6) eyyāhaṃ</i>)
 
 ## How to Use the Deck
 
-The deck contains conjugations for the active, passive, and middle voices. It is suggested the beginners give little attention to or avoid altogether the middle voice conjugations, as the middle voice is an infrequent and mostly deprecated form. Moreover, it is suggested that the new student mostly ignore the italicized (rare) conjugations, and focus on proficiency in the fewer core conjugations needed to read most Pāli texts. The deck is intended as a <i>supplement</i> to one's Pāli studies, not as primary material, so it is suggested that it be given a fraction of one's time to study Pāli.
+The deck contains conjugations for the active and middle voices. It is suggested that beginners give little attention to or avoid altogether the middle voice conjugations, as the middle voice is an infrequent and mostly deprecated form. Moreover, it is suggested that the new student mostly ignore the italicized (rare) conjugations, and focus on proficiency in the fewer core conjugations needed to read most Pāli texts. The deck is intended as a <i>supplement</i> to one's Pāli studies, not as primary material, so it is suggested that it be given a fraction of one's time to study Pāli.
 
 ## Shortcomings
 
