@@ -2,8 +2,26 @@ baseURL = 'https://puthujjana.github.io/puthujjana/'
 languageCode = 'en-us'
 title = 'Puthujjana'
 theme = 'mainroad'
-
+disqusShortname = "" # Enable comments by entering your Disqus shortname
+googleAnalytics = "" # Enable Google Analytics by entering your tracking id
 ignoreLogs = ['warning-goldmark-raw-html']
+
+[Params]
+  subtitle = "Some notes on Dhamma inter alia" # Subtitle of your site. Used in site header
+  description = "A puthujjanas notes on Dhamma, among other subjects." # Site description. Used in meta description
+  #copyright = "John Doe" # copyright holder, otherwise will use site title
+  opengraph = true # Enable OpenGraph if true
+  twitter_cards = true # Enable Twitter Cards if true
+  readmore = false # Show "Read more" button in list if true
+  authorbox = false # Show authorbox at bottom of pages if true
+  toc = true # Enable Table of Contents
+  post_navigation = true # Show post navigation at bottom of pages if true
+  # post_meta = ["date", "categories"] # Order of post meta information. Use ["none"] to turn off completely.
+  postSections = ["post"] # the section pages to show on home page and the "Recent articles" widget
+  dateformat = "2006-01-02" # change the format of dates
+  disableThemeCredit = true
+
+ 
 
 [Params.sidebar]
 home = "right"   # Sidebar for the homepage
