@@ -5,17 +5,9 @@ theme = 'mainroad'
 
 ignoreLogs = ['warning-goldmark-raw-html']
 
-[params]
-  disableThemeCredit = true
+[Params.sidebar]
+home = "right"   # Sidebar for the homepage
+list = "right"   # Sidebar for list pages (e.g., section and taxonomy pages)
+single = "right" # Sidebar for single article pages
+widgets = ["search", "recent", "categories", "taglist"]
 
-  [[params.widgets]]
-    name = "search"
-
-  [[params.widgets]]
-    name = "recent"
-
-  [[params.widgets]]
-    name = "categories"
-
-  [[params.widgets]]
-    name = "tags"
