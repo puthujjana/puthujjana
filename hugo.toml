@@ -12,13 +12,11 @@ theme = 'mainroad'
   name = "search"
 
 [[Params.widgets]]
+  name = "recent"
+
+[[Params.widgets]]
   name = "categories"
 
 [[Params.widgets]]
   name = "tags"
 
-[[Params.widgets]]
-  name = "recent"
-
-[[Params.widgets]]
-  name = "social"
