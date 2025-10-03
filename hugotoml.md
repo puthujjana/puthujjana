@@ -1,0 +1,40 @@
+baseURL = 'https://puthujjana.github.io/puthujjana/'
+languageCode = 'en-us'
+title = 'Puthujjana'
+theme = 'mainroad'
+
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
+
+[markup]
+  [markup.goldmark.renderer]
+    unsafe = true
+
+[params]
+  ShowArchive = true
+  hideFooter = true
+  fuse = true
+
+[[menu.main]]
+  name = "Archive"
+  url = "/archives/"
+  weight = 10
+
+[[menu.main]]
+  name = "Search"
+  url = "/search/"
+  weight = 10
+
+[taxonomies]
+  category = "categories"
+  tag = "tags"
+
+[outputs]
+  home = ["HTML", "RSS", "JSON"]
+
+sectionPagesMenu = 'main'
+
+
+
+

@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Philosophy on Puthujjana</title>
     <link>http://localhost:1313/puthujjana/categories/philosophy/</link>
     <description>Recent content in Philosophy on Puthujjana</description>
-    <generator>Hugo -- 0.148.1</generator>
+    <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 25 Aug 2025 14:35:32 -0700</lastBuildDate>
     <atom:link href="http://localhost:1313/puthujjana/categories/philosophy/index.xml" rel="self" type="application/rss+xml" />
@@ -13,16 +13,14 @@
       <link>http://localhost:1313/puthujjana/posts/philosophy-of-religion/the-concise-endless-and-infinite/</link>
       <pubDate>Mon, 25 Aug 2025 14:35:32 -0700</pubDate>
       <guid>http://localhost:1313/puthujjana/posts/philosophy-of-religion/the-concise-endless-and-infinite/</guid>
-      <description>&lt;h2 id=&#34;summary&#34;&gt;Summary&lt;/h2&gt;
-&lt;p&gt;&lt;a href=&#34;https://docs.google.com/document/d/1FfUONaYSVEj9oYc4S_BmH4CjWHOREZFVUisJUqkX5Mo/edit?usp=sharing&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;This Google Doc&lt;/a&gt; contains a developing summary or conceptual map of an article written by Alex Malpass and Wes Morriston entitled &amp;ldquo;Endless and Infinite&amp;rdquo;. In itself, &amp;ldquo;The Concise Endless and Infinite&amp;rdquo; introduces nothing new to the discussion, other than a streamlined and convenient map and reference. This is part of a broader project to develop a conceptual map for the broader literature on arguments for the impossibility of actual infinites in defense of the kalām cosmological argument.&lt;/p&gt;</description>
+      <description>&lt;h2 id=&#34;summary&#34;&gt;Summary&lt;/h2&gt;&#xA;&lt;p&gt;&lt;!-- raw HTML omitted --&gt;This Google Doc&lt;!-- raw HTML omitted --&gt; contains a developing summary or conceptual map of an article written by Alex Malpass and Wes Morriston entitled &amp;ldquo;Endless and Infinite&amp;rdquo;. In itself, &amp;ldquo;The Concise Endless and Infinite&amp;rdquo; introduces nothing new to the discussion, other than a streamlined and convenient map and reference. This is part of a broader project to develop a conceptual map for the broader literature on arguments for the impossibility of actual infinites in defense of the kalām cosmological argument.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Philosophical Arguments for the Impossibility of an Actual Infinite</title>
       <link>http://localhost:1313/puthujjana/posts/philosophy-of-religion/philosophical-arguments-for-the-impossibility-of-an-actual-infinite/</link>
       <pubDate>Mon, 18 Aug 2025 12:26:54 -0700</pubDate>
       <guid>http://localhost:1313/puthujjana/posts/philosophy-of-religion/philosophical-arguments-for-the-impossibility-of-an-actual-infinite/</guid>
-      <description>&lt;h2 id=&#34;summary&#34;&gt;Summary&lt;/h2&gt;
-&lt;p&gt;&lt;a href=&#34;https://docs.google.com/spreadsheets/d/1b7EmuWLfSYMQhvDf4dHNXSOIiQk9e4OrmvmhwQm8yjQ/edit?usp=sharing&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;This Google Sheet&lt;/a&gt; contains a developing bibliography of materials on philosophical arguments for the impossibility of an actual infinite. The emphasis is on English academic materials in the analytic tradition, though alternative traditions and formats (YouTube interviews) will be included where available.&lt;/p&gt;</description>
+      <description>&lt;h2 id=&#34;summary&#34;&gt;Summary&lt;/h2&gt;&#xA;&lt;p&gt;&lt;!-- raw HTML omitted --&gt;This Google Sheet&lt;!-- raw HTML omitted --&gt; contains a developing bibliography of materials on philosophical arguments for the impossibility of an actual infinite. The emphasis is on English academic materials in the analytic tradition, though alternative traditions and formats (YouTube interviews) will be included where available.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
